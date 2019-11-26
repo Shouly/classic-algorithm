@@ -1,4 +1,4 @@
-package space.shouly.hash;
+package space.shouly.algorithm.consistent.hash;
 
 /**
  * @author liangbing

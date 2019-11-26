@@ -1,4 +1,4 @@
-package space.shouly.hash;
+package space.shouly.algorithm.consistent.hash;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
