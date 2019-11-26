@@ -1,2 +1,5 @@
-# consistent-hash
-一致性Hash算法 Java实现
+# classic-algorithm
+经典通用算法
+geohash
+timewheel
+空间索引
